@@ -5,7 +5,7 @@
 - 🌸 Pronouns she/her
 - 🎂 20y
 - 💞 I love lofi,
-- 🤩 love animes
+- 🤩 love the audiovisual world
 - 📚 and love books
 
 <div style="display: inline_block"
@@ -21,6 +21,7 @@
 <div align="center"><br>
   <a href="https://instagram.com/r4yy4n3_42" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rayane-pereira-6ab6b5199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="malito:rayaryray14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_black"></a>
 </div>
  
  ##
@@ -30,3 +31,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayPereiraP&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayPereiraP&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+     
+<div>
+<div align="center">
+     ![Snake animation](https://github.com/RayPereiraP/RayPereiraP/blob/output/github-contribution-grid-snake.svg)
+     </div>
