@@ -1,6 +1,5 @@
-# Em manutenção!!!
 ### Hello, how are you doing? Welcome to my profile. Nice to meet you, I'm Rayane!
-### Olá, tudo bem? Seja bem vindx ao meu perfil. Prazer em te conhecer, eu sou a Rayane!
+### Olá, tudo bem? Seja bem vindo ao meu perfil. Prazer em te conhecer, eu sou a Rayane!
 
 - 🌠 Ray, Ary or Ane
 - 🌸 Pronouns she/her
@@ -30,6 +29,7 @@
  
  <div align="center">
   <a href="https://github.com/RayPereiraP">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayPereiraP&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayPereiraP&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RayPereiraP&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/><br>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayPereiraP&layout=compact&langs_count=7&theme=cobalt"/><br>
+   <img heigth="200em" src="https://api.roadmap.sh/v1-badge/tall/64611b6a410780a6d9b3eafb?variant=dark" alt="roadmap.sh"/></a><br>
 </div>
