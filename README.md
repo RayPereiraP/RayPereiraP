@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 *  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 *  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-*  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+*  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
  </div>
 
 ##
@@ -29,7 +29,7 @@
  
  <div align="center">
   <a href="https://github.com/RayPereiraP">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RayPereiraP&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/><br>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayPereiraP&layout=compact&langs_count=7&theme=cobalt"/><br>
-   <img heigth="200em" src="https://api.roadmap.sh/v1-badge/tall/64611b6a410780a6d9b3eafb?variant=dark" alt="roadmap.sh"/></a><br>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=RayPereiraP&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/><br>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayPereiraP&layout=compact&langs_count=7&theme=cobalt"/><br>
+  <img height="250cm" src="https://api.roadmap.sh/v1-badge/tall/64611b6a410780a6d9b3eafb?variant=dark&roadmaps=full-stack%2Cai-data-scientist%2Ccomputer-science%2Cprompt-engineering" alt="roadmap.sh"/></a><br>
 </div>
