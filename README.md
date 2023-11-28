@@ -24,7 +24,6 @@
 <img heigth="210em" src="https://api.roadmap.sh/v1-badge/tall/64611b6a410780a6d9b3eafb?variant=dark" alt="roadmap.sh"/></a><br>
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RayPereiraP&bg_color=0d1117&color=be9b88&line=be9b88&point=be9b88&area=true&hide_border=true)
 
-
 ##
 
 ## 🏆 GitHub Trophies
