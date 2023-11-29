@@ -44,6 +44,6 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-[![](https://visitcount.itsvg.in/api?id=RayPereiraP&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=RayPereiraP&icon=0&color=0)](https://visitcount.itsvg.in)</br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ab8977&height=120&section=footer"/>
