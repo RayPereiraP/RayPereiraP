@@ -21,7 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=RayPereiraP&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RayPereiraP&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RayPereiraP&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-<img heigth="210em" src="https://api.roadmap.sh/v1-badge/tall/64611b6a410780a6d9b3eafb?variant=dark" alt="roadmap.sh"/></a><br>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64611b6a410780a6d9b3eafb?variant=dark&roadmaps=full-stack%2Cai-data-scientist%2Ccomputer-science%2Csoftware-design-architecture)](https://roadmap.sh)<br/>
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RayPereiraP&bg_color=0d1117&color=be9b88&line=be9b88&point=be9b88&area=true&hide_border=true)
 
 ##
