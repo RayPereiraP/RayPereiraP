@@ -1,9 +1,56 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=be9b88&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=be9b88&section=header&text=Rayane%20Pereira&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=be9b88&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rayane+Pereira;I'm+21+years+old;I'm+from+Brazil;I'm+a+Software+Engineering+Student;Be+Welcome!+:%29)
+<p align="center">
 
-# 💫 About Me:
-🌠 Ray, Ary or Ane<br>🌸 Pronouns she/her<br>🎂 20y<br>💞 I love lofi,<br>🤩 love the audiovisual world<br>📚 and love books
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=BE9B88&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Data+Engineering+%7C+Python+%7C+AWS;42+São+Paulo+Cadet;Always+Learning+Something+New"/>
+
+</p>
+
+# 👋 About Me
+
+```yaml
+Name: Rayane Pereira
+Location: São Paulo, Brazil 🇧🇷
+
+Education:
+  - Software Engineering
+  - Artificial Intelligence
+  - Economics
+
+Currently Learning:
+  - C
+  - Data Engineering
+  - AWS
+  - System Design
+
+Interests:
+  - Artificial Intelligence
+  - Data Engineering
+  - Backend Development
+  - Open Source
+
+Fun Fact:
+  - I love transforming ideas into code.
+
+##
+
+# Hobbies
+
+Você comentou:
+
+> colocar hobbies de forma divertida
+
+Eu faria assim.
+
+# 🎠 Beyond Code
+
+| 📚 | 🎧 | 🎬 | 📷 |
+|-----|-----|-----|-----|
+| Reading | Lofi | Movies | Photography |
+
+| 🚗 | 🌌 | ☕ | 🎨 |
+|------|------|------|------|
+| Cars | Astronomy | Coffee | Design |
 
 ##
 
