@@ -1,98 +1,428 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=be9b88&section=header&text=Rayane%20Pereira&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
+<!-- ============================== -->
+<!--          HEADER                -->
+<!-- ============================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=ff5fa2,ffc371,4facfe&section=header&text=Rayane%20Pereira&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=BE9B88&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Data+Engineering+%7C+Python+%7C+AWS;42+São+Paulo+Cadet;Always+Learning+Something+New"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=BE9B88&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Data+Engineering+Enthusiast;42+São+Paulo+Cadet;Python+%7C+AWS+%7C+C+%7C+SQL;Always+Learning+Something+New+%F0%9F%9A%80"/>
 </p>
 
-# 👋 About Me
+---
+
+# 👋 Hello, I'm Rayane Pereira!
+
+💻 Software Engineering Student
+
+📍 São Paulo, Brazil 🇧🇷
+
+☁️ Passionate about Data Engineering, Cloud Computing and Artificial Intelligence.
+
+🚀 Currently studying at **42 São Paulo**, building projects with **C**, while expanding my knowledge in **Python**, **AWS**, **Data Engineering** and **Software Development**.
+
+🌱 I believe technology has the power to transform people's lives and I love creating solutions that combine creativity with programming.
+
+---
+
+# 🌸 About Me
 
 ```yaml
 Name: Rayane Pereira
-Location: São Paulo, Brazil 🇧🇷
+
+Location:
+  São Paulo - Brazil
 
 Education:
   - Software Engineering
   - Artificial Intelligence
   - Economics
 
-Currently Learning:
-  - C
-  - Data Engineering
-  - AWS
-  - System Design
-
-Interests:
-  - Artificial Intelligence
+Current Focus:
   - Data Engineering
   - Backend Development
-  - Open Source
+  - AWS Cloud
+  - Algorithms
+  - System Design
 
-Fun Fact:
-  - I love transforming ideas into code.
+Learning:
+  - C
+  - Python
+  - SQL
+  - AWS
+  - Linux
 
-##
+Dream:
+  Become a Data Engineer and build technologies
+  that positively impact millions of people.
+```
 
-# Hobbies
+---
 
-Você comentou:
+# 🎠 Beyond the Code
 
-> colocar hobbies de forma divertida
+<table>
 
-Eu faria assim.
+<tr>
 
-# 🎠 Beyond Code
+<td align="center">
 
-| 📚 | 🎧 | 🎬 | 📷 |
-|-----|-----|-----|-----|
-| Reading | Lofi | Movies | Photography |
+📚
 
-| 🚗 | 🌌 | ☕ | 🎨 |
-|------|------|------|------|
-| Cars | Astronomy | Coffee | Design |
+### Books
 
-##
+Fantasy
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/r4yy4n3_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rayanepereirap-desenvolvedorjava/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/R4yy4n3_42) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@RayaneEnayar) 
+Psychology
 
-##
+Technology
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+</td>
 
-##
+<td align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RayPereiraP&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RayPereiraP&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RayPereiraP&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64611b6a410780a6d9b3eafb?variant=dark&roadmaps=full-stack%2Cai-data-scientist%2Ccomputer-science%2Csoftware-design-architecture)](https://roadmap.sh)<br/>
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RayPereiraP&bg_color=0d1117&color=be9b88&line=be9b88&point=be9b88&area=true&hide_border=true)
+🎧
 
-##
+### Music
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RayPereiraP&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Lofi
 
-##
+Instrumental
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Movie Soundtracks
 
-##
+</td>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RayPereiraP&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+<td align="center">
 
-##
+🎬
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### Cinema
 
-[![](https://visitcount.itsvg.in/api?id=RayPereiraP&icon=0&color=0)](https://visitcount.itsvg.in)</br>
+Sci-Fi
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ab8977&height=120&section=footer"/>
+Animation
 
-//colocar hobbies de uma forma divertida - carrosel interativo
+Adventure
+
+</td>
+
+<td align="center">
+
+📷
+
+### Photography
+
+Nature
+
+Cities
+
+Creative Photos
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+🚗
+
+### Cars
+
+Performance
+
+Design
+
+Engineering
+
+</td>
+
+<td align="center">
+
+🌌
+
+### Astronomy
+
+Stars
+
+Moon
+
+Universe
+
+</td>
+
+<td align="center">
+
+🎨
+
+### Design
+
+Figma
+
+Adobe
+
+Canva
+
+</td>
+
+<td align="center">
+
+☕
+
+### Lifestyle
+
+Coffee
+
+Coding
+
+Learning
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rayanepereirap-desenvolvedorjava/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/r4yy4n3_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/R4yy4n3_42">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@RayaneEnayar">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,python,java,javascript,php,bash"/>
+
+</p>
+
+---
+
+## ⚡ Front-end
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vue"/>
+
+</p>
+
+---
+
+## 🛠 Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,laravel"/>
+
+</p>
+
+---
+
+## 🗄 Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+</p>
+
+---
+
+## ☁ Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+</p>
+
+---
+
+## 🎨 Design
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+
+</p>
+
+---
+
+## 🧰 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| **ft_printf** | Recreation of the C printf function using variadic arguments. |
+| **push_swap** | Sorting algorithm project using two stacks with optimized operations. |
+| **Pixel Art Generator** | Pixel Art application built with JavaScript, HTML and CSS. |
+| **Calculator Python** | Python calculator project for practicing programming logic. |
+
+---
+
+# 🌱 Currently Learning
+
+- C Programming
+
+- Algorithms
+
+- Data Structures
+
+- Linux
+
+- AWS
+
+- System Design
+
+- Data Engineering
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RayPereiraP&show_icons=true&theme=blue-green&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayPereiraP&layout=compact&theme=blue-green"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RayPereiraP&theme=blue-green"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RayPereiraP&bg_color=0d1117&color=be9b88&line=be9b88&point=be9b88&area=true&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RayPereiraP&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🛣️ My Learning Roadmap
+
+<p align="center">
+
+<a href="https://roadmap.sh">
+
+<img src="https://api.roadmap.sh/v1-badge/wide/64611b6a410780a6d9b3eafb?variant=dark&roadmaps=full-stack%2Ccomputer-science%2Csoftware-design-architecture%2Cai-data-scientist"/>
+
+</a>
+
+</p>
+
+---
+
+# 💭 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+</p>
+
+---
+
+# 😂 Random Dev Meme
+
+<p align="center">
+
+<img src="https://randommeme-five.vercel.app/" height="400"/>
+
+</p>
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=RayPereiraP&icon=5&color=6"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Improve my C skills
+
+✅ Master Data Engineering
+
+✅ Build amazing Open Source projects
+
+✅ Become an AWS specialist
+
+✅ Keep learning every day
+
+---
+
+<p align="center">
+
+<i>"Code is more than solving problems — it's creating possibilities."</i>
+
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=4facfe,ffc371,ff5fa2&section=footer"/>
